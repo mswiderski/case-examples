@@ -1,0 +1,14 @@
+
+<form id="834790653">
+<property name="name" value="ManagerApproval-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="approved" type="CheckBox" id="255355371">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;approved_ (approved)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="approved_"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="approved_" value="java.lang.Boolean" id="approved"/>
+</form>

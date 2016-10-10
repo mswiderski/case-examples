@@ -1,0 +1,14 @@
+
+<form id="2114374562">
+<property name="name" value="itorders.orderhardware-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="approved" type="CheckBox" id="744674020">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;approved (approved)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="approved"/>
+<property name="fieldClass" value="java.lang.Boolean"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="approved" value="java.lang.Boolean" id="approved"/>
+</form>
